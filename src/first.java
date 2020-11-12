@@ -3,7 +3,7 @@ public class first {
         int a = 3345, b = -5475;
         byte c = 100, d = 56;
         short e = 3568, f = -3568;
-        long h = 2_340_321, g = 8_435_755_543L;
+        long h = 2_340_321L, g = 8_435_755_543L;
         float i = 46.32F, j = 2.98F;
         double k = -378.03, l = 745.31;
 
