@@ -1,4 +1,4 @@
-public class first {
+public class First {
     public static void main(String[] args) {
         int a = 3345, b = -5475;
         byte c = 100, d = 56;
